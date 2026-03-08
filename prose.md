@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Prose
+title: prose
 category: prose
 ---
